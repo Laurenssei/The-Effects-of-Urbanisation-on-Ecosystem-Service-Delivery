@@ -1,7 +1,7 @@
 # The-Effects-of-Urbanisation-on-Ecosystem-Service-Delivery
 # The Effects of Urbanisation on Ecosystem Service Delivery: Implications for Provisioning and Regulating Services
 
-📄 Full Report: [View Analysis](The Effects of Urbanisation on Ecosystem Service Delivery/ Implications for Provisioning and Regulat.html)
+📄 Full Report: [View Analysis](The Effects of Urbanisation on Ecosystem Service Delivery/ Implications for Provisioning and Regulat.pdf)
 
 ## Overview
 This project examines the impacts of urbanization on provisioning (e.g., crops/food, freshwater, fuelwood, medicinal plants) and regulating (e.g., air quality, climate, flood, soil erosion control) ecosystem services in Kumasi, Ghana, using a 2025 survey of 156 residents from Aboabo, Atonsu, and Susanso. Findings reveal severe degradation, with 73.7% reporting reduced crops/food availability and 77.6% for flood regulation, driven by habitat destruction (75.0% high impact) and water pollution (71.8%). Urbanization rate significantly influences fuelwood and crops (p<0.01), while employment status affects perceptions (p=0.023). Strategies like environmental education (72.4% support) and sustainable urban planning (59.6%) are favored, with strong community participation (57.7%) and green space importance (80.1%). Implications emphasize integrated, participatory planning to mitigate declines and enhance service delivery for urban resilience.
